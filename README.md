@@ -10,7 +10,6 @@ This list exists for the following reasons:
 
 - Temple Grandin
 - Dan Harmon, writer, producer, actor. Creator of TV shows Rick & Morty, and Community.
-    -?? Creator of Pokemon
 - Autistix, Musicians
 - Wentworth Miller, Actor - [source](https://m.economictimes.com/magazines/panache/prison-break-star-wentworth-miller-reveals-he-has-autism/articleshow/84819839.cms)
 - Jared O'Mara, UK politician, former Member of Parliament
