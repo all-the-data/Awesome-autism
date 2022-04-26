@@ -1,6 +1,6 @@
 # awesome-autism
 
-A list of public figures who have been diagnosed with autistic spectrum disorder.
+A list of public figures who have been diagnosed with Asperger syndrome or autistic spectrum disorder.
 
 This list exists for the following reasons:
 1) To foster autistic pride
