@@ -10,7 +10,7 @@ The lists are in alphabetical order of first name.
 
 ## Confirmed
 
-People who have stated they have been officialy diagnosed by a doctor.
+People who have stated they received a diagnosis from a medical professional.
 
 | Name               | Known for                             | Notes                                                               |
 | ------------------ | ------------------------------------- | ------------------------------------------------------------------- |
