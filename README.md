@@ -4,8 +4,8 @@ A list of public figures who have been diagnosed with Asperger syndrome or autis
 
 This list exists for the following reasons:
 
-1) To foster autistic pride
-2) I like making lists ;-)
+1. To foster autistic pride
+2. I like making lists ;-)
 
 The list is in alphabetical order of first name.
 
