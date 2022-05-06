@@ -3,6 +3,7 @@
 A list of public figures who have been diagnosed with Asperger syndrome or autistic spectrum disorder.
 
 This list exists for the following reasons:
+
 1) To foster autistic pride
 2) I like making lists ;-)
 
@@ -28,3 +29,7 @@ People who have stated they received a diagnosis from a medical professional.
 ## Sources
 
 - [Wikipedia category: People_with_Asperger_syndrome](https://en.wikipedia.org/wiki/Category:People_with_Asperger_syndrome)
+
+## Submissions and edit requests
+
+- [Raise an issue or send a pull request on github](https://github.com/all-the-data/awesome-autism)
