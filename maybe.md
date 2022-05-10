@@ -10,24 +10,37 @@ The list is in alphabetical order of first name.
 - Or people who exhibit some of the traits of autism (purely subjective opinion).
 - I hope this list does not hurt anyone's feelings, it is written with love.
 
-| Name               | Known for                             | Notes / Sources                                                     |
-| ------------------ | ------------------------------------- | ------------------------------------------------------------------- |
-| Albert Einstein  | Theoretical physicist               | Not confirmed. [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
-| Dan Aykroyd      | Actor                               | Self-diagnosed. [wikipedia](https://en.wikipedia.org/wiki/Dan_Aykroyd)    |
-| Florian Schneider | Musician, Kraftwerk                | Not confirmed. [wikipedia](https://en.wikipedia.org/wiki/Florian_Schneider)
-| Fritz Hilpert    | Musician, Kraftwerk                 | Not confirmed. [wikipedia](https://en.wikipedia.org/wiki/Fritz_Hilpert)
-| Gary Numan       | Musician                            | Self-diagnosed. [wikipedia](https://en.wikipedia.org/wiki/Gary_Numan) |
-| Jarvis Cocker    | Musician, Pulp                      | Self-diagnosed. [wikipedia](https://en.wikipedia.org/wiki/Jarvis_Cocker), [interview](https://www.theguardian.com/music/2008/nov/24/jarvis-cocker-pulp-pop-music) |
-| Karl Bartos      | Musician, Kraftwerk                 | Not confirmed. [wikipedia](https://en.wikipedia.org/wiki/Karl_Bartos)
-| Ralf Hütter      | Musician, Kraftwerk                 | Not confirmed. [wikipedia](https://en.wikipedia.org/wiki/Ralf_H%C3%BCtter), [interview](https://www.theguardian.com/music/2009/jun/19/kraftwerk-hutter-manchester-international) |
-| Satoshi Tajiri   | Video game designer, inventor of [Pokemon](https://en.wikipedia.org/wiki/Pok%C3%A9mon) | Refuted. [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Tajiri), [article](https://www.videogameschronicle.com/news/a-popular-claim-about-pokemons-creator-has-been-debunked/) |
-| Thom Yorke       | Musician, Radiohead                 | Not confirmed. [wikipedia](https://en.wikipedia.org/wiki/Thom_Yorke)
-| Wolfgang Flür    | Musician, Kraftwerk                 | Not confirmed. [wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Fl%C3%BCr)
+| Name               | Known for                      | Member of     | Notes / Sources                                  |
+| ------------------ | ------------------------------ | ------------- | ------------------------------------------------ |
+| Albert Einstein    | Theoretical physicist          |               | Unconfirmed  |
+| Courtney Love      | Musician                       |               | Provisionally diagnosed [^7] |
+| Dan Aykroyd        | Actor                          |               | Self-diagnosed |
+| Florian Schneider  | Musician                       | Kraftwerk     | Unconfirmed  |
+| Fritz Hilpert      | Musician                       | Kraftwerk     | Unconfirmed  |
+| Gary Numan         | Musician                       |               | Self-diagnosed [^3] |
+| Jarvis Cocker      | Musician                       | Pulp          | Self-diagnosed [^1] |
+| John Flansburgh    | Musician                       | They Might Be Giants | Unconfirmed [^2] |
+| John Linnell       | Musician                       | They Might Be Giants | Mentioned [^4] |
+| Karl Bartos        | Musician                       | Kraftwerk     | Unconfirmed |
+| Ralf Hütter        | Musician                       | Kraftwerk     | Unconfirmed [^5] |
+| Satoshi Tajiri     | Video game designer, inventor of Pokemon |     | Refuted [^6] |
+| Thom Yorke         | Musician                       | Radiohead     | Unconfirmed |
+| Wolfgang Flür      | Musician                       | Kraftwerk     | Unconfirmed |
 
 ## Questionable/unreliable sources
 
-These articles are closer to clickbait than fact:
+These articles are more clickbait than fact:
 
 - [20 famous people](https://behavioral-innovations.com/blog/20-famous-people-with-autism-spectrum-disorder-asd/)
 - [30 most inspiring](https://www.appliedbehavioranalysisprograms.com/historys-30-most-inspiring-people-on-the-autism-spectrum/)
 - [7 famous people](https://www.psycom.net/autism-famous-people)
+
+## References
+
+[^1]: https://www.theguardian.com/music/2008/nov/24/jarvis-cocker-pulp-pop-music
+[^2]: https://gothamist.com/arts-entertainment/interview-john-flansburgh-40-years-they-might-be-giants-book
+[^3]: https://www.theguardian.com/lifeandstyle/2018/apr/28/gary-numan-eye-contact-is-something-i-find-incredibly-difficult
+[^4]: https://www.chicagotribune.com/entertainment/ct-xpm-2013-03-14-ct-ott-0315-tmbg-20130314-story.html
+[^5]: https://www.theguardian.com/music/2009/jun/19/kraftwerk-hutter-manchester-international
+[^6]: https://www.videogameschronicle.com/news/a-popular-claim-about-pokemons-creator-has-been-debunked/
+[^7]: https://en.wikipedia.org/wiki/Courtney_Love:_The_Real_Story
