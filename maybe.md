@@ -7,22 +7,26 @@ The list is in alphabetical order of first name.
 ## Maybe
 
 - People who either have said they are autistic but don't have an official diagnosis
-- Or people who exhibit some of the traits of autism (purely subjective opinion).
+- Or contemporary people who exhibit some of the traits of autism (purely subjective opinion).
 - Or historical figures (i.e. before 1943) whose documented behaviour and comorbidities could possibly be speculated to indicate autism.
 - I hope this list does not hurt anyone's feelings, it is written with love.
 
 | Name               | Known for                      | Member of     | Notes / Sources                                  |
 | ------------------ | ------------------------------ | ------------- | ------------------------------------------------ |
-| Albert Einstein    | Theoretical physicist          |               | Historical  |
+| Albert Einstein [^11] | Theoretical physicist       |               | Historical [^9]  |
 | Courtney Love      | Musician                       |               | Provisionally diagnosed [^7] |
 | Dan Aykroyd        | Actor                          |               | Self-diagnosed |
 | Florian Schneider  | Musician                       | Kraftwerk     | Unconfirmed  |
 | Fritz Hilpert      | Musician                       | Kraftwerk     | Unconfirmed  |
 | Gary Numan         | Musician                       |               | Self-diagnosed [^3] |
+| Henry Cavendish [^12] | Scientist                   |               | Historical [^13] |
+| Isaac Newton [^10] | Mathematician                  |               | Historical [^9] |
 | Jarvis Cocker      | Musician                       | Pulp          | Self-diagnosed [^1] |
 | John Flansburgh    | Musician                       | They Might Be Giants | Unconfirmed [^2] |
 | John Linnell       | Musician                       | They Might Be Giants | Mentioned [^4] |
 | Karl Bartos        | Musician                       | Kraftwerk     | Unconfirmed |
+| Matt Farley [^8]   | Musician                       | Motern Media  | Unconfirmed |
+| Paul Dirac [^14]   | Theoretical physicist          |               | Historical [^15] |
 | Ralf Hütter        | Musician                       | Kraftwerk     | Unconfirmed [^5] |
 | Satoshi Tajiri     | Video game designer, inventor of Pokemon |     | Refuted [^6] |
 | Thom Yorke         | Musician                       | Radiohead     | Unconfirmed |
@@ -46,3 +50,11 @@ These articles are more clickbait than fact:
 [^5]: https://www.theguardian.com/music/2009/jun/19/kraftwerk-hutter-manchester-international
 [^6]: https://www.videogameschronicle.com/news/a-popular-claim-about-pokemons-creator-has-been-debunked/
 [^7]: https://en.wikipedia.org/wiki/Courtney_Love:_The_Real_Story
+[^8]: https://en.wikipedia.org/wiki/Matt_Farley
+[^9]: https://www.newscientist.com/article/dn3676-einstein-and-newton-showed-signs-of-autism/
+[^10]: https://en.wikipedia.org/wiki/Isaac_Newton
+[^11]: https://en.wikipedia.org/wiki/Albert_Einstein
+[^12]: https://en.wikipedia.org/wiki/Henry_Cavendish
+[^13]: https://doi.org/10.1212/WNL.57.7.1347
+[^14]: https://en.wikipedia.org/wiki/Paul_Dirac
+[^15]: https://doi.org/10.1063/1.3273018
