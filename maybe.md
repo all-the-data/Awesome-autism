@@ -25,10 +25,11 @@ The list is in alphabetical order of first name.
 | John Flansburgh    | Musician                       | They Might Be Giants | Unconfirmed [^2] |
 | John Linnell       | Musician                       | They Might Be Giants | Mentioned [^4] |
 | Karl Bartos        | Musician                       | Kraftwerk     | Unconfirmed |
+| Mark Zuckerberg [^17] | Founder of Facebook         |               | Unconfirmed [^18] |
 | Matt Farley [^8]   | Musician                       | Motern Media  | Unconfirmed |
 | Paul Dirac [^14]   | Theoretical physicist          |               | Historical [^15] |
 | Ralf Hütter        | Musician                       | Kraftwerk     | Unconfirmed [^5] |
-| Satoshi Tajiri     | Video game designer, inventor of Pokemon |     | Refuted [^6] |
+| Satoshi Tajiri     | Video game designer, inventor of Pokemon |     | Refuted [^6] [^16] |
 | Thom Yorke         | Musician                       | Radiohead     | Unconfirmed |
 | Wolfgang Flür      | Musician                       | Kraftwerk     | Unconfirmed |
 
@@ -58,3 +59,6 @@ These articles are more clickbait than fact:
 [^13]: https://doi.org/10.1212/WNL.57.7.1347
 [^14]: https://en.wikipedia.org/wiki/Paul_Dirac
 [^15]: https://doi.org/10.1063/1.3273018
+[^16]: https://www.asperger-syndrome.me.uk/pokemon.html
+[^17]: https://en.wikipedia.org/wiki/Mark_Zuckerberg
+[^18]: https://www.todaysparent.com/family/special-needs/how-the-mark-zuckerberg-backlash-is-for-people-whore-actuallyautistic/
