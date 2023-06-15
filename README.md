@@ -37,5 +37,5 @@ People who have stated they received an official diagnosis from a medical profes
 
 ## References
 
-- [^1]: https://www.forbes.com/profile/harry-stine/
-- [^2]: https://www.forbes.com/sites/alexmorrell/2014/03/28/from-farm-boy-to-billionaire-harry-stines-7-insights-for-entrepreneurs/
+[^1]: https://www.forbes.com/profile/harry-stine/
+[^2]: https://www.forbes.com/sites/alexmorrell/2014/03/28/from-farm-boy-to-billionaire-harry-stines-7-insights-for-entrepreneurs/
