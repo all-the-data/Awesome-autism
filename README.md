@@ -16,6 +16,7 @@ People who have stated they received an official diagnosis from a medical profes
 | Name               | Known for                             | Source                                                              |
 | ------------------ | ------------------------------------- | ------------------------------------------------------------------- |
 | Anthony Hopkins    | Actor                                 | [wikipedia](https://en.wikipedia.org/wiki/Anthony_Hopkins) |
+| Bradley Riches     | Actor                                  | [wikipedia](https://en.m.wikipedia.org/wiki/Bradley_Riches) |
 | Chris Packham      | TV Presenter, Photographer            | The Guardian [^3] |
 | Dan Harmon         | Creator of TV shows Rick & Morty, Community    | [wikipedia](https://en.wikipedia.org/wiki/Dan_Harmon)       |
 | Daryl Hannah       | Actor                                 | [wikipedia](https://en.wikipedia.org/wiki/Daryl_Hannah) |
